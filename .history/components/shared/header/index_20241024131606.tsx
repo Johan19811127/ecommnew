@@ -11,10 +11,10 @@ const Header = async () => {
         <div className="flex-start">
           <Link href="/" className="flex-start font-bold">
             <Image
-              src="/assets/icons/Badge.png"
+              src="/assets/icons/badge.png"
               width={40}
               height={50}
-              alt='School Badge'
+              alt=Schoolbag`
               className="me-2"
             />
             {APP_NAME}
