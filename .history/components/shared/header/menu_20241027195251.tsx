@@ -1,8 +1,7 @@
 
 import UserButton from './user-button'
 import CartButton from './cart-button'
-import ModeToggle from './toggle-button'
-
+Mode
 
 
 const Menu = () => {

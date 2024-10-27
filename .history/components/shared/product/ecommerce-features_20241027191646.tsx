@@ -45,7 +45,7 @@ const EcommerceFeatures = () => {
             <GraduationCap className="w-10 h-10 mx-auto" />
             <div className="text-sm font-bold">Benefit from each sale.</div>
             <div className="text-sm text-muted-foreground">
-           Proceeds from all sales will be used for the education of your child
+           Proceeds of this sale will be used for the education of your child
             </div>
           </div>
         </div>

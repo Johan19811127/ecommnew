@@ -1,6 +1,6 @@
 
 
-import {ShoppingBag, Truck, Ruler, Undo2 , LockKeyhole , GraduationCap } from 'lucide-react'
+import {ShoppingBag, Truck, Ruler, Undo2 , LockKeyhole } from 'lucide-react'
 const EcommerceFeatures = () => {
   return (
     <div className="">
@@ -10,7 +10,7 @@ const EcommerceFeatures = () => {
             <ShoppingBag className="w-10 h-10 mx-auto" />
             <div className="text-sm font-bold">Shop when it suits you.</div>
             <div className="text-sm text-muted-foreground">
-              Shop at your own convenience. Wherever and whenever it suits you.
+              Shop from the comfort of your own house, at a time that is right for you.
             </div>
           </div>
           <div className="space-y-2 text-center lg:mx-5 xl:mx-2">
@@ -38,14 +38,14 @@ const EcommerceFeatures = () => {
             <LockKeyhole className="w-10 h-10 mx-auto" />
             <div className="text-sm font-bold">Save and Secure</div>
             <div className="text-sm text-muted-foreground">
-              Your info is save and secure and will not be shared with any third party.
+              Your info is save and secure and will not be shared with any third party
             </div>
           </div>
           <div className="space-y-2 text-center lg:mx-5 xl:mx-2">
-            <GraduationCap className="w-10 h-10 mx-auto" />
-            <div className="text-sm font-bold">Benefit from each sale.</div>
+            <ShoppingBag className="w-10 h-10 mx-auto" />
+            <div className="text-sm font-bold">Shop when it suits you.</div>
             <div className="text-sm text-muted-foreground">
-           Proceeds from all sales will be used for the education of your child
+              Shop from the comfort of your own house, at a time that is right for you.
             </div>
           </div>
         </div>

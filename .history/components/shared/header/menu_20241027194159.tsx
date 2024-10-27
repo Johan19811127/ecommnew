@@ -1,8 +1,7 @@
 
 import UserButton from './user-button'
 import CartButton from './cart-button'
-import ModeToggle from './toggle-button'
-
+import { ModeToggle } from './toggle-button'
 
 
 const Menu = () => {
@@ -12,7 +11,7 @@ const Menu = () => {
         <nav className="md:flex hidden w-full max-w-xs gap-3">
    <CartButton />
           <UserButton />
-          <ModeToggle/>
+          <ModeToggle
         </nav>
       </div>
     </>

@@ -5,8 +5,8 @@ import { Poppins as FontSans } from 'next/font/google'
 import { cn } from '@/lib/utils'
 import { Toaster } from '@/components/ui/toaster'
 import React from 'react'
+The
 import { APP_DESCRIPTION, APP_NAME } from '@/lib/constants'
-import { ThemeProvider } from '@/components/shared/theme-provider'
 
 const fontSans = FontSans({
   subsets: ['latin'],
