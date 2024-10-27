@@ -66,7 +66,7 @@ const ProductPromotion = () => {
           alt="promotion"
           width={300}
           height={200}
-          src="/assets/images/p1-1.png"
+          src="/assets/images/p1-1."
         />
       </div>
     </section>
