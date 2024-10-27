@@ -53,7 +53,7 @@ const Header = async () => {
           </Drawer>
           <Link href="/" className="flex-start font-bold">
             <Image
-              src="/assets/images/badge.png"
+              src="/assets/badge.png"
               width={40}
               height={48}
               alt="School badge"
